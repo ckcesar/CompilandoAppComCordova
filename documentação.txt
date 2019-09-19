@@ -1,0 +1,18 @@
+Entrar no terminal como administrador, abrir a tela onde vai ficar aplicação
+e executar a linha: cordova create testeIndex
+
+Depois das pastas criadas dentro do seu diretório, execute esse comando para instalar o 
+Android na aplicação: cordova platform add android
+
+Conecte o celular e execute: adb devices
+
+Para compilar no celular só executar esse linha: cordova run android
+
+Pronto seu primeiro App com Cordova está em seu celular Android
+===================================
+
+*Para rodar essa aplicação que fiz não precisa executar todas as linhas acima, somente a linha:  adb devices para conectar o celular e cordova run android para gerar
+o APK
+
+Blog onde estudei.
+https://www.devmedia.com.br/cordova-comando-cordova-create/38347
